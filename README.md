@@ -1,1 +1,1 @@
-# Language-Detection-using-Multinomial-Naive-Bayes
+# Language-Detection-Model
