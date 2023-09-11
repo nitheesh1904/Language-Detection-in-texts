@@ -24,7 +24,7 @@ Here are some screenshots of User Interface and testing with some texts:
 
 # Application
 One of the very important application of this model is in twitter.
-When Someone tweets in a language, to translate that to other language, identification of the original twee is very crucial.
+When Someone tweets in a language, to translate that to other language, identification of the original tweet is very crucial.
 Once Identified, it is easier to translate to the desired language.
 
 The model finds such similar application, where language identification is important.
