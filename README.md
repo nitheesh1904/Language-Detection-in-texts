@@ -15,4 +15,12 @@ Clone the Repository: Clone this repository to your local machine.
 Run the Gradio UI Application: To use the pre-trained model for language detection, run the Gradio UI application.
 
 Here are some screenshots of User Interface and testing with some texts:
+
+![image](https://github.com/nitheesh1904/Language-Detection-in-texts/assets/113526963/df5b87dd-3c5d-4fc4-82ef-9d832edab414)
+
+![image](https://github.com/nitheesh1904/Language-Detection-in-texts/assets/113526963/4a5e3985-6324-4f76-bb72-3fb48d870f9b)
+
 ![image](https://github.com/nitheesh1904/Language-Detection-in-texts/assets/113526963/0a768719-12df-4282-b630-f5e543a24c72)
+
+
+
