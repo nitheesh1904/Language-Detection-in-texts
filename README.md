@@ -22,5 +22,9 @@ Here are some screenshots of User Interface and testing with some texts:
 
 ![image](https://github.com/nitheesh1904/Language-Detection-in-texts/assets/113526963/0a768719-12df-4282-b630-f5e543a24c72)
 
+#Application
+One of the very important application of this model is in twitter.
+When Someone tweets in a language, to translate that to other language, identification of the original twee is very crucial.
+Once Identified, it is easier to translate to the desired language.
 
 
